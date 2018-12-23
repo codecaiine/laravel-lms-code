@@ -1,0 +1,463 @@
+.login-container {
+  width: 35%;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+
+.sign-up-container{
+  width: 80%;
+  background-color: white;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+.sign-up-text{
+  margin-top: 28%;
+  margin-left: 25%;
+  color: #424242;
+}
+
+.login-button {
+  width: 98%;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #1d702d;
+  margin-right: 10px !important;
+  margin-left: 10px;
+}
+
+.sign-up-button{
+  width: 96%;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 15px;
+  margin-left: 10px;
+  background-color: #1d702d;
+}
+
+body{
+  background-color: #fafafa;
+}
+
+.navbar-color{
+  background-color: white;
+}
+
+/*h1, h2, h3, h4, h5, h6, a, p, span{*/
+  /*font-family: 'Montserrat', sans-serif;*/
+/*}*/
+
+h1, h2, h3, h4, h5, h6, a, p, span{
+  font-family: "Lato Medium", Lato,serif;
+}
+
+.edit-form-section{
+  margin-top: 20px;
+  width: auto;
+  padding-top: 40px;
+  padding-right: 30px;
+}
+
+.facebook-logo, .google-logo{
+  width: 16px;
+  margin-right: 10px;
+}
+
+.facebook-google-divider{
+  font-size: 20px;
+  margin: 10px;
+}
+
+.custom-input-field{
+  margin-bottom: 10px !important;
+  border: 1px solid #bdbdbd !important;
+  padding-left: 10px !important;
+}
+
+.logo-img-top-nav {
+  width: 150px;
+  margin-top: 10px;
+}
+
+.logo-image-top-nav{
+  width: 130px !important;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.footer-logo{
+  width: 250px;
+  margin: auto;
+  margin-top: 10px;
+
+}
+
+.nav-custom{
+  height: 70px;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.dashboard-nav{
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.create-course-nav-bar{
+  box-shadow: none;
+  padding-left: 7.5%;
+  padding-right: 6.5%;
+  margin: 0;
+  background-color: #ffff;
+}
+
+.custom-card{
+  width: inherit;
+}
+
+
+.image-course-card{
+  width: 100% !important;
+  height: 200px;
+}
+
+.image-course{
+  height: inherit;
+}
+
+.nav-container{
+  width: 70%;
+  margin: 0 auto;
+}
+.course-overview-container{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.forget-password, .sign-up-link, .sign-in-link{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.card-text-panel{
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.card-text{
+  text-align: center;
+}
+
+
+
+.main-profile-image{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+
+.nav-profile-image{
+  margin-right: 120px;
+  margin-top: 10px;
+}
+
+hr {
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color : #f9fbe7;
+}
+
+.continue-course-card-button{
+  background-color: #1d702d !important;
+  text-transform: none;
+}
+
+.profile-data-background{
+  background-color: #1d702d;
+  text-align: center;
+}
+
+.continue-course-card-text{
+  padding-top: 7px !important;
+}
+
+.course-in-progress{
+  margin-top: 50px;
+  width: auto !important;
+  margin-right: 90px !important;
+}
+
+.profile-sub-menu{
+  padding-left: 60px !important;
+}
+
+.course-image{
+  width: auto !important;
+  height: inherit !important;
+  margin: 0 !important;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.signup-agreement{
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.settings-container{
+  margin-top: 50px;
+  margin-right: 40px;
+  /*width: 70%;*/
+}
+
+.form-container{
+  width: 90%;
+  margin-right: 70px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 40px;
+}
+
+.form-color{
+  background-color: white;
+}
+
+.side-nav-custom{
+  margin-top: 64px;
+  overflow-y: scroll;
+  max-height: 530px
+}
+
+.save-changes-button{
+  margin-bottom: 40px;
+  background-color: #1d702d !important;
+  text-transform: none;
+  margin-top: 40px;
+}
+
+.cancel-changes-button{
+  margin-bottom: 40px;
+  background-color: #ffffff !important;
+  text-transform: none;
+  margin-top: 40px;
+  color: #1d702d !important;
+}
+
+.save-changes-button-section{
+  text-align: center;
+}
+
+.button-radius{
+  border-radius: 5px;
+}
+
+.card-image{
+  width: 30%;
+}
+
+.course-card{
+  height: 150px;
+}
+
+.side-nav, .logout-link{
+  overflow: scroll;
+}
+
+.image-user-view{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name-user-view{
+  padding-bottom: 20px;
+  text-align: center
+}
+
+.credentials-text{
+  margin-top: 40px;
+}
+
+.change-user-image{
+  cursor: pointer;
+}
+
+.profile-input-field{
+  width: auto;
+  margin-left: 20px !important
+
+}
+
+.create-course-button{
+  width: 200px;
+}
+
+.form-custom{
+  border-radius: 10px;
+  padding-left: 100px !important;
+ 
+}
+
+.create-course-card, .course-stat{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.view-stat-btn{
+  width: 100%;
+}
+
+.create-course-form{
+  margin: 40px;
+}
+
+.upload-file{
+  border: 0 !important;
+}
+
+.save-review-course{
+  float: right;
+}
+
+.course-create-breadcrumbs{
+  margin-bottom: 30px;
+}
+
+#list-breadcrumbs{
+  color: #827717;
+}
+
+#video-frame{
+  width: 95%;
+  margin-top: 70px;
+  margin-left: 50px;
+}
+
+.classroom-side-nav{
+  width: 400px;
+}
+
+.video-section{
+  box-shadow: none;
+}
+
+.video-next-button{
+  float: right;
+  background-color: #1d702d;
+  margin-top: 5px;
+}
+
+.classroom-card{
+  box-shadow: none;
+}
+
+.course-progress-icon{
+  color: #9e9d24 !important;
+  font-size: 20px !important;
+}
+
+.section-text{
+  color: #000000;
+}
+
+.section-divider{
+  margin: 10px;
+}
+
+.button-text{
+  text-transform: none;
+}
+
+.facebook-logo-btn, .google-logo-btn{
+  background-color: white;
+  color: #3B5998;
+  box-shadow: none;
+  border: 1px solid antiquewhite;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.facebook-logo-btn:hover, .google-logo-btn:hover{
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.logo-image-dashboard-top-nav{
+  width: 150px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.change-password-button{
+  text-transform: none;
+  background-color: #1d702d;
+  padding: 0px !important;
+}
+
+.personal-information-text{
+  margin-top: 40px;
+}
+
+
+.select-option-label{
+  margin-top: 10px !important;
+}
+
+.select-label-text{
+  font-size: 15px !important;
+}
+
+.input-label{
+  font-size: 18px !important;
+}
+
+.change-placeholder::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: #424242;
+}
+.change-placeholder:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #424242;
+    opacity: 1;
+}
+.change-placeholder::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #424242;
+    opacity: 1;
+}
+.change-placeholder:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #424242;
+}
+
+
+@media screen and (max-width: 480px) {
+  .login-container{
+    width: 100%;
+  }
+
+  hr{
+    width: auto;
+  }
+
+  .input-field.col.s6, .input-field.col.s12, .file-path.validate.col.s3, .btn.lime.darken-2.button-radius,
+  .manage-profile-inst-btn-col.col.s3{
+    width: 100%;
+  }
+
+  .logo-image-dashboard-top-nav{
+    width: 150px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .logo-image-dashboard-top-nav{
+    width: 150px;
+  }
+}
+
